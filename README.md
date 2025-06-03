@@ -1,7 +1,5 @@
 # best-repo-ever
 
-afadfdsa
-fgfgsfhfsghfsgh
-tercera prueba
+Tercera prueba
 cuarto modificacion para crear conflicto
 
